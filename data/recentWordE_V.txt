@@ -1,5 +1,4 @@
 -tron
--trophin
 1-byte character
 1-byte character set
 huger
@@ -15,6 +14,7 @@ hugged
 overlooks
 overlook
 overloading
--trichous
 1 to many relationship
 -merous
+-trichous
+-trophin
